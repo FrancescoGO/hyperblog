@@ -8,7 +8,7 @@ body{
     padding: 0;
 }
 
-#container{
+#container {
     width: 70%;
     padding: 0;
     text-align: left;
@@ -16,9 +16,9 @@ body{
     margin: 0px auto;
 }
 
-#cabecera{
+#cabecera {
     background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -37,12 +37,18 @@ body{
     font-size: 0.8em;
 }
 
-#container h1
-{
+#container h1 {
     font-size: 20px;
 }
 
 #post{
     background: white;
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
